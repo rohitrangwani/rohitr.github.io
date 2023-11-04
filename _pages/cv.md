@@ -47,6 +47,7 @@ Publications
 *	Rangwani, Rohit, and Hangue Park. "Vibration Induced Proprioceptive Modulation in Surface-EMG Based Control of a Robotic Arm." In 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER), pp. 1105-1108. IEEE, 2019.
 
 Awards
+======
 *	American Heart Association Predoctoral Fellowship, Jan 2023
 *	Team placed 3rd in UCLA Cross-campus Innovation Challenge, May 2022
 *	Team placed first in Cleveland NeuroDesign Entrepreneurs Workshop, Aug 2021
