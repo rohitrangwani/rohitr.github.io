@@ -12,21 +12,21 @@ redirect_from:
 Education
 ======
 * Doctor of Philosophy, Ph.D., University of California, Los Angeles, CA, Sept 2021 – present
-Bioengineering (Neuroengineering track)
+  • Bioengineering (Neuroengineering track)
 * Master of Science, MS, Texas A&M University, College Station, TX, May 2020
-Electrical Engineering
+  • Electrical Engineering
 * Bachelor of Technology, BTech, National Institute of Technology, Warangal, India, May 2016
-Electronics and Communication Engineering
+  • Electronics and Communication Engineering
 
 
 Research experience
 ======
 * Gulati Lab, CNSM, Cedars-Sinai, Los Angeles, CA, Sept 2021 – present
-Working on subcortical cerebellar brain-machine interfaces for neuroprosthetic control
+  • Working on subcortical cerebellar brain-machine interfaces for neuroprosthetic control
 * Integrated Neuro-Prosthesis Lab, Texas A&M University, College Station, TX, Aug 2018 - May 2020
-Engaged in research on developing methods of sensory feedback/augmentation for robotic-human interfaces and neuroprosthetics
+  • Engaged in research on developing methods of sensory feedback/augmentation for robotic-human interfaces and neuroprosthetics
 * MuSAE Lab, INRS-EMT, Montreal, Canada, May - July 2015
-Utilized numPy, sklearn, etc. in python to design a self-paced Motor Imagery BCI system that can be used for real-time application without the need for extensive training (a few mins per user) or high computation power. Hacked an Emotiv Epoc+ for EEG acquisition in the sensorimotor area for easier online applications.
+  • Utilized numPy, sklearn, etc. in python to design a self-paced Motor Imagery BCI system that can be used for real-time application without the need for extensive training (a few mins per user) or high computation power. Hacked an Emotiv Epoc+ for EEG acquisition in the sensorimotor area for easier online applications.
 
 Work experience
 ======
