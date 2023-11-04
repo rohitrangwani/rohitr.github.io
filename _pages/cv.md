@@ -11,49 +11,65 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy, Ph.D., University of California, Los Angeles, CA, Sept 2021 – present
+Bioengineering (Neuroengineering track)
+* Master of Science, MS, Texas A&M University, College Station, TX, May 2020
+Electrical Engineering
+* Bachelor of Technology, BTech, National Institute of Technology, Warangal, India, May 2016
+Electronics and Communication Engineering
+
+
+Research experience
+======
+* Gulati Lab, CNSM, Cedars-Sinai, Los Angeles, CA, Sept 2021 – present
+Working on subcortical cerebellar brain-machine interfaces for neuroprosthetic control
+* Integrated Neuro-Prosthesis Lab, Texas A&M University, College Station, TX, Aug 2018 - May 2020
+Engaged in research on developing methods of sensory feedback/augmentation for robotic-human interfaces and neuroprosthetics
+* MuSAE Lab, INRS-EMT, Montreal, Canada, May - July 2015
+Utilized numPy, sklearn, etc. in python to design a self-paced Motor Imagery BCI system that can be used for real-time application without the need for extensive training (a few mins per user) or high computation power. Hacked an Emotiv Epoc+ for EEG acquisition in the sensorimotor area for easier online applications.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Engineer, Qualcomm, San Diego, CA, July 2020 – Aug 2021
+  •	Worked on eXtended Reality(XR) software development, virtual reality controllers  
+* Software Engineer | Canon Medical Research USA (CMRU), Cleveland, OH, June 2020 - July 2020 
+  •	Worked on the development of image reconstruction software for magnetic resonance imaging (MRI)
+* GPU Software Intern, Samsung Advanced Computing Lab (ACL), San Jose, CA, May 2019 - Aug 2019
+  •	Built an independent library for converting internal GPU format memory buffers to human interpretable outputs(raw/PNG) & vice-versa, for debugging/testing various tools and GPU drivers
+Engineer, Qualcomm, Hyderabad, India, July 2016 - Aug 2018
+  •	Developed & supported NFC (Near Field Communication) on Android utilizing C/C++/Java for support across layers (kernel driver, middleware/HAL, apps) for different Qualcomm Snapdragon platforms
+  •	Owned and coded various test utilities (factory testing, etc.) in C and test automation scripts in python saving significant repetitive developer test effort and easier factory testing 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Rangwani, Rohit*; Simpson, Benjamin*; Abbasi, Aamir; Chung, Jeffrey; Reed, Chrystal and Gulati, Tanuj. "Non-Rapid Eye Movement Sleep Features in Post-Stroke Human Electroencephalogram." medRxiv. 2023:2023-05. *Co-first author. (Under review in Frontiers in Neurology)
+* Rangwani, Rohit, and Hangue Park. "A new approach of inducing proprioceptive illusion by transcutaneous electrical stimulation." Journal of NeuroEngineering and Rehabilitation 18, no. 1 (2021): 1-16.
+*	Rangwani, Rohit, and Hangue Park. "Vibration Induced Proprioceptive Modulation in Surface-EMG Based Control of a Robotic Arm." In 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER), pp. 1105-1108. IEEE, 2019.
+
+Awards
+*	American Heart Association Predoctoral Fellowship, Jan 2023
+*	Team placed 3rd in UCLA Cross-campus Innovation Challenge, May 2022
+*	Team placed first in Cleveland NeuroDesign Entrepreneurs Workshop, Aug 2021
+*	Electrical and Computer Engineering Departmental Scholarship, Texas A&M University, Aug 2019
+*	MITACS Globalink Research Internship award (for a fully funded research internship in Canada), May 2015
+
+Poster presentation
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* IEEE Engineering in Medicine and Biology Society (EMBS), 2019
+* Student Research Fair, Texas A&M University, College Station, 2019
+* Student Research Fair, Texas A&M University, College Station, 2020
+* Bioengineering research day, UCLA, 2022
+* Society for Neuroscience (SfN), 2022
+* Bioengineering research day, UCLA, 2023
+* Society for Neuroscience (SfN), 2023
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Teaching Assistant, University of California, Los Angeles, CA, Jan 2023 – Mar 2023
+  •	Lead discussion/lab section for Machine learning & data-driven modeling in Bioengineering course
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer work (content for a monthly newsletter) for [NeurotechX](https://neurotechx.com/), 2018-
+* Neuroengineering field representative, Bioengineering Graduate Association (BGA), UCLA, 2023-24 Academic year 
+  
